@@ -35,7 +35,6 @@
   </div>
 </template>
 <script>
-import { Modal } from "flowbite";
 export default {
   computed: {
     deleteTaskId() {

@@ -69,7 +69,6 @@ export default {
     },
   },
   name: "ToDoList",
-  props: ["task", "index"],
   methods: {
     getDate() {
       const timeElapsed = Date.now();
